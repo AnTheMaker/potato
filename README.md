@@ -1,5 +1,5 @@
 # potato
-A simple PHP function to get environmental variables from an .env file in the current directory.
+A simple and lightweight (221 Bytes) PHP function to get environmental variables from an .env file in the current directory.
 
 ## Usage
 .env
